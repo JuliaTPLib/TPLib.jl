@@ -1,0 +1,7 @@
+name = "TPLib"
+uuid = "df2c65bb-145d-4e43-9df5-5660864f8cb3"
+authors = ["Nicolas Vandame <nicolas.vandame@inria.fr>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
