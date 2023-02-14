@@ -13,5 +13,6 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/JuliaTPLib/TPLib.jl.git"
+    repo = "github.com/JuliaTPLib/TPLib.jl.git",
+    versions = ["v^"]
 )
